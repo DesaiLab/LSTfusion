@@ -1,5 +1,4 @@
-;Initial code repo
-;Needs lot of comments!
+;Initial code for LST
 
 ;see https://www.harrisgeospatial.com/docs/image_goes16.html
 ; see https://www.goes-r.gov/users/docs/PUG-L1b-vol3.pdf
